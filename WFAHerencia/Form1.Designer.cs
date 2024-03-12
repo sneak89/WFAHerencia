@@ -85,7 +85,6 @@
             this.label2.Size = new System.Drawing.Size(111, 16);
             this.label2.TabIndex = 4;
             this.label2.Text = "Ingresa # Bigotes";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // button2
             // 
@@ -135,7 +134,6 @@
             this.label4.Size = new System.Drawing.Size(56, 16);
             this.label4.TabIndex = 10;
             this.label4.Text = "Nombre";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
@@ -145,7 +143,6 @@
             this.label5.Size = new System.Drawing.Size(39, 16);
             this.label5.TabIndex = 11;
             this.label5.Text = "Peso";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // button3
             // 
